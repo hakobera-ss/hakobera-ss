@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 🌱
+
+This account is for hobby programming.
 
 <!--
 **hakobera-ss/hakobera-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
