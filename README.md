@@ -2,6 +2,10 @@
 
 This account is for hobby programming.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hakobera-ss&repo=github-readme-stats)](https://github.com/hakobera-ss/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakobera-ss)](https://github.com/hakobera-ss/github-readme-stats)
+
 <!--
 **hakobera-ss/hakobera-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
